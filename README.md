@@ -6,6 +6,12 @@ Simple HTML page as placeholder for empty web presence.
 
 <br>
 
+The HTML page contained in this repo can be viewed under the following URL:
+
+**https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy/**
+
+<br>
+
 ----
 
 ## License ##
