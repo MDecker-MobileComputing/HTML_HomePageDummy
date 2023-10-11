@@ -12,6 +12,11 @@ The HTML page contained in this repo can be viewed under the following URL:
 
 <br>
 
+The HTML page in this repo is also served by [CloudFlare Pages](https://pages.cloudflare.com/)
+under the following URL: https://html-homepage-dummy.pages.dev/
+
+<br>
+
 ----
 
 ## License ##
