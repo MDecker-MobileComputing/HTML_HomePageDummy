@@ -1,6 +1,6 @@
 
 body {
-    font-family: sans-serif;
+    font-family: sans-serif; /* Alle Schriften ohne Serifen */
     text-align: center;
     font-size: 150%;
     margin: 5em; /* Außenabstand */
