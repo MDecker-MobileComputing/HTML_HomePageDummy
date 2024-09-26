@@ -2,19 +2,14 @@
 
 <br>
 
-Simple HTML page as placeholder for empty web presence.
+Einfache Webseite als Platzhalter für eine leere Web-Präsenz.
 
 <br>
 
-The HTML page contained in this repo can be viewed under the following URL (served by [GitHub Pages](https://pages.github.com/)):
-
-**https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy/**
-
-<br>
-
-The HTML page in this repo is also served by [CloudFlare Pages](https://pages.cloudflare.com/) under the following URL: 
-
-**https://html-homepage-dummy.pages.dev/**
+Sie wird unter den folgenden URLs von anderen Hosting-Diensten bereitgestellt:
+* [GitHub Pages](https://pages.github.com/)                         : https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy/
+* [CloudFlare Pages](https://pages.cloudflare.com/)                 : https://html-homepage-dummy.pages.dev/
+* [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=de): https://statische-website.web.app/
 
 <br>
 
