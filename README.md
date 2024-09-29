@@ -13,6 +13,7 @@ Sie wird mit verschiedenen Hosting-Diensten unter den folgenden URLs bereitgeste
 | [GitHub Pages](https://pages.github.com/) | https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy/ |
 | [CloudFlare Pages](https://pages.cloudflare.com/) | https://html-homepage-dummy.pages.dev/ |
 | [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=de) | https://statische-website.web.app/ |
+| [Replit](https://replit.com/) | https://replit.com/@mide42b/Dummy-Page |
 
 <br>
 
